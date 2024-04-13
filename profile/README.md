@@ -1,12 +1,21 @@
-## Hi there 👋
+<div align="center">
+   
+   <img align="center" src = "./profile/watermark-50px.png"><br>
+ 
+</div> <br>
 
-<!--
 
-**Here are some ideas to get you started:**
+## إرشادات المساهمة والتطوير
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+إذا كنت مهتمًا بالمساهمة في مشاريعنا ، فيرجى التواصل معنا لمناقشة فرص التعاون عن طريق وسائل التواصل الخاصة بنا. 🤝💡
+
+## كنز الإسلام
+
+- تيليجرام: [Telegram](https://t.me/KanzislamNet)
+- انستجرام: [Instagram](https://www.instagram.com/kanzislamnet)
+- تيك توك: [Tiktok](https://www.tiktok.com/@kanzislamnet)
+- بريد إلكتروني: [Email](mailto:KanzislamNet@gmail.com)
+- رسائل نصية: [+966553556010](SMS:+966553556010)
+- 
+###### نشكرك على اهتمامك بعملنا و بالبرمجيات الحرة ومفتوحة المصدر! 🙏
+
